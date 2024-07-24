@@ -96,7 +96,7 @@ p {
   display: block;
 }
 
-@media (max-width:600px) {
+/* @media screen and (max-width: 600px) {
     .grid {
         grid-template-columns: repeat(2,1fr);
     }
@@ -137,9 +137,9 @@ p {
 
  .grid-container2 {
     width: 60%;
- }
+ } */
 
-@media (max-width: 768px) {
+/* @media screen and (max-width: 768px){
   .grid {
     grid-template-columns: repeat(2, 1fr);
   }
@@ -179,8 +179,8 @@ p {
   }
 }
 
-@media (max-width: 1024px) {
+ @media screen and (min-width: 1024px){
   .grid {
     grid-template-columns: repeat(4, 1fr);
   }
-}
+} */ */
