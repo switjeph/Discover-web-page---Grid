@@ -117,7 +117,7 @@ p {
 
     .main-container {
         position: relative;
-    left: 10%;
+    left: 6%;
     width: 90%;
     /* margin: 0 auto; */
     }
@@ -137,12 +137,13 @@ p {
     justify-content: center;
     position: absolute;
     /* margin: 10px auto; */
-    left: 38%;
+    left: 32%;
  }
 
  .grid-container2 {
     width: 70%;
     margin: 0 auto;
+    padding-right: 2.5rem;
  } 
 
  @media screen and (min-width: 601px) and (max-width: 900px){
@@ -190,6 +191,7 @@ p {
     margin-top: 8rem;
     width: 90%;
     margin: 0 auto;
+
   }
 }
 
